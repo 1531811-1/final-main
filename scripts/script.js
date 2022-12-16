@@ -35,7 +35,7 @@ function afficherLutins(liste) {
 
     fetch('https://5dd00936d5f1a500149a8305.mockapi.io/heros/lutins')
         .then(function (){
-        
+
     })
     /**
      * À compléter/corriger - lorsqu'on clique sur le bouton modifier du lutin
